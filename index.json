@@ -1,6 +1,9 @@
 {  "MOBILE": [
        "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInNzaG9jZWFuLWFybWVuaWEtd3MiLA0KICAiYWRkIjogImFtMS52MnZtZXNzLnNpdGUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiSV9Mb3ZlX/Cfh7Xwn4e4X3NzaE9jZWFuXzkxNGYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFtMS52MnZtZXNzLnNpdGUiLA0KICAicGF0aCI6ICIvdm1lc3MjRE9OVC1GT1JHRVQtVE8tU1VQUE9SVC1TU0hPQ0VBTi5DT00tVE8tS0VFUC1USElTLVNFUlZFUi1BTElWRSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJhbTEudjJ2bWVzcy5zaXRlIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=",
        "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInNzaG9jZWFuLWJlbGlnaXVtLXdzIiwNCiAgImFkZCI6ICJiZTEudjJ2bWVzcy5zaXRlIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIklfTG92ZV/wn4e18J+HuF9zc2hPY2Vhbl81MTM1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJiZTEudjJ2bWVzcy5zaXRlIiwNCiAgInBhdGgiOiAiL3ZtZXNzI0RPTlQtRk9SR0VULVRPLVNVUFBPUlQtU1NIT0NFQU4uQ09NLVRPLUtFRVAtVEhJUy1TRVJWRVItQUxJVkUiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiYmUxLnYydm1lc3Muc2l0ZSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9",
-       "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNekF3Wg==@at1.ssocks.wiki:8388#sshOcean-at1-exp03-25-13"
+       "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNekF3Wg==@at1.ssocks.wiki:8388#sshOcean-at1-exp03-25-13",
+       "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNekF3Wg==@at1.ssocks.wiki:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#sshOcean-at1.obfs_http-exp03-25-13",
+       "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNekF3Wg==@at1.ssocks.wiki:1443/?plugin=obfs-local;obfs=tls;obfs-host=m.youtube.com;obfs-uri=/#sshOcean-at1.obfs_tls-exp03-25-13",
+       "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNekF3Wg==@at1.ssocks.wiki:8009/?plugin=ck-client%3BUID%3Dx6KMgpv5iBj9En%2BRcd0bKg%3D%3D%3BPublicKey%3DaN9bXfYHAs4YnLG0sirTP1XMT3LJxY6xyOv2ee9cBh4%3D%3BServerName%3Dm.youtube.com%3BBrowserSig%3Dchrome%3BNumConn%3D100%3BStreamTimeout%3D300%3BProxyMethod%3Dshadowsocks%3BEncryptionMethod%3Dplain%3BTransport%3Ddirect#sshOcean-at1.cloak-exp03-25-13"
     ]
 }
